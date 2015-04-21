@@ -33,8 +33,10 @@ These signals were used to estimate variables of the feature vector for each pat
 
 '_std' - standard deviation of signal value
 
+### Script run_analysis.R
+Detailed information about original data files and how script works - please read in <a href="https://github.com/hokumski/GettingAndCleaningData_CourseProject/blob/master/CodeBook.md">CodeBook.md</a> file.
 
-### Variables
+### Result Variables
 
 subject - identifier of volunteer. An integer from 1 to 30
 
